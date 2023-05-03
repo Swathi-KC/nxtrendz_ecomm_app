@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.order-summary-cont {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  max-width: 65%;
+}
+
+.total-order-cost {
+  color: #616e7c;
+  font-size: 16px;
+  font-family: 'Roboto';
+  line-height: 1.2;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+
+.total-amount {
+  color: #171f46;
+  font-size: 18px;
+  font-family: 'Roboto';
+  line-height: 1.2;
+  font-weight: 600;
+}
+
+.total-cart-items {
+  color: #616e7c;
+  font-size: 10px;
+  font-family: 'Roboto';
+  line-height: 1.2;
+  font-weight: 400;
+  margin-top: 0px;
+}
+
+.check-out-btn {
+  width: 100%;
+  height: 25px;
+  border: none;
+  border-radius: 6px;
+  padding: 5px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-size: 12px;
+  font-family: 'Roboto';
+  line-height: 1;
+  font-weight: 400;
+}
